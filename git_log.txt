@@ -1,0 +1,52 @@
+commit 659be2e777bd86fb3d9b0e9104e44678cc05873d
+Merge: 5c6c4e4 a9a2256
+Author: Sara <sarafernandez800@gmail.com>
+Date:   Wed Feb 4 17:22:13 2026 -0800
+
+    Merge branch 'main' of https://github.com/sarafer16/CS3338-second-project
+
+commit 5c6c4e4b56da2d635b1ec0827d270bb78f703679
+Merge: ba36604 26422ec
+Author: Sara <sarafernandez800@gmail.com>
+Date:   Wed Feb 4 17:18:39 2026 -0800
+
+    fixed merge conflict
+
+commit 26422eca5f5118c493ec3ac8b910420bd4ecb8f6
+Author: Sara <sarafernandez800@gmail.com>
+Date:   Wed Feb 4 17:15:34 2026 -0800
+
+    added favorite game
+
+commit ba36604c764cfabd2b3ad5176cb57646548bbe70
+Author: Sara <sarafernandez800@gmail.com>
+Date:   Wed Feb 4 17:12:12 2026 -0800
+
+    added favorite food
+
+commit b9b0ee17170ac017915f6c273f61328b7ae5202c
+Author: sarafer16 <sarafernandez800@gmail.com>
+Date:   Wed Feb 4 16:44:33 2026 -0800
+
+    Create README.md
+
+commit a9a2256ec1875a14dbad3d282f02e7bdfa1d67de
+Merge: 1d2bfc0 fe8a178
+Author: sarafer16 <sarafernandez800@gmail.com>
+Date:   Wed Feb 4 16:38:14 2026 -0800
+
+    Merge pull request #1 from sarafer16/into-fill
+    
+    Filled info in blanks
+
+commit fe8a1788e83fe26ea9b2febeaf06b2a7635a5248
+Author: Sara <sarafernandez800@gmail.com>
+Date:   Wed Feb 4 01:36:44 2026 -0800
+
+    Filled info in blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
